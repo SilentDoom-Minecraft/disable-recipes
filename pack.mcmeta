@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "Disable Recipes Datapack"
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "recipes/.*"
+            }
+        ]
+    }
+}
